@@ -276,7 +276,7 @@ Most of the core team members, webpack contributors and contributors in the ecos
 
 This is how we use the donations:
 
-* Allow the core team to work on weback
+* Allow the core team to work on webpack
 * Thank contributors if they invested a large amount of time in contributing
 * Support projects in the ecosystem that are of great value for users
 * Support projects that are voted most (work in progress)
@@ -485,6 +485,27 @@ Become a backer and get your image on our README on Github with a link to your s
 <a href="https://opencollective.com/webpack/backer/77/website" target="_blank"><img src="https://opencollective.com/webpack/backer/77/avatar.svg"></a>
 <a href="https://opencollective.com/webpack/backer/78/website" target="_blank"><img src="https://opencollective.com/webpack/backer/78/avatar.svg"></a>
 <a href="https://opencollective.com/webpack/backer/79/website" target="_blank"><img src="https://opencollective.com/webpack/backer/79/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/80/website" target="_blank"><img src="https://opencollective.com/webpack/backer/80/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/81/website" target="_blank"><img src="https://opencollective.com/webpack/backer/81/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/82/website" target="_blank"><img src="https://opencollective.com/webpack/backer/82/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/83/website" target="_blank"><img src="https://opencollective.com/webpack/backer/83/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/84/website" target="_blank"><img src="https://opencollective.com/webpack/backer/84/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/85/website" target="_blank"><img src="https://opencollective.com/webpack/backer/85/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/86/website" target="_blank"><img src="https://opencollective.com/webpack/backer/86/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/87/website" target="_blank"><img src="https://opencollective.com/webpack/backer/87/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/88/website" target="_blank"><img src="https://opencollective.com/webpack/backer/88/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/89/website" target="_blank"><img src="https://opencollective.com/webpack/backer/89/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/90/website" target="_blank"><img src="https://opencollective.com/webpack/backer/90/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/91/website" target="_blank"><img src="https://opencollective.com/webpack/backer/91/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/92/website" target="_blank"><img src="https://opencollective.com/webpack/backer/92/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/93/website" target="_blank"><img src="https://opencollective.com/webpack/backer/93/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/94/website" target="_blank"><img src="https://opencollective.com/webpack/backer/94/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/95/website" target="_blank"><img src="https://opencollective.com/webpack/backer/95/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/96/website" target="_blank"><img src="https://opencollective.com/webpack/backer/96/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/97/website" target="_blank"><img src="https://opencollective.com/webpack/backer/97/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/98/website" target="_blank"><img src="https://opencollective.com/webpack/backer/98/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/99/website" target="_blank"><img src="https://opencollective.com/webpack/backer/99/avatar.svg"></a>
+<a href="https://opencollective.com/webpack/backer/100/website" target="_blank"><img src="https://opencollective.com/webpack/backer/100/avatar.svg"></a>
 
 
 ## Dependencies
